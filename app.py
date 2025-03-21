@@ -4,7 +4,7 @@ import uuid
 import base64
 
 # Constants
-WEBHOOK_URL = "https://1769-186-158-145-9.ngrok-free.app/webhook/invoke_agent"
+WEBHOOK_URL = "https://699c-186-158-145-9.ngrok-free.app/webhook/invoke_agent"
 BEARER_TOKEN = "Grupo1des"
 
 def generate_session_id():
